@@ -1,22 +1,22 @@
 [
   {
     "name": "marmelo-staging API",
-    "url": "https://staging-api.marmelo.app/api/faq",
-    "icon": "https://icons.duckduckgo.com/ip3/staging-api.marmelo.app.ico",
+    "url": "$STAGING_API",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marmelo-staging-api",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "96.23%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "96.23%",
     "time": 256,
     "timeDay": 256,
     "timeWeek": 256,
     "timeMonth": 256,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-11-03": 0
+      "2023-11-03": 1
     }
   }
 ]
