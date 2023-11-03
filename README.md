@@ -1,6 +1,6 @@
 # [📈 Live Status](https://marmelo.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Rafael Marmelo](https://humanready.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Marmelo](https://marmelo.app), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/marmelo-app/upttime/workflows/Uptime%20CI/badge.svg)](https://github.com/marmelo-app/upttime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/marmelo-app/upttime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/marmelo-app/upttime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -25,5 +25,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Rafael Marmelo](https://humanready.io)
+- Code: [MIT](./LICENSE) © [Marmelo](https://marmelo.app)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
