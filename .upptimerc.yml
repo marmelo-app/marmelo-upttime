@@ -11,7 +11,7 @@ assignees:
   - ar-mmo
 
 # Use the self-hosted runner in GCP
-runner: "[self-hosted, linux]"
+runner: self-hosted
 workflowSchedule:
   uptime: "*/1 * * * *"
 
