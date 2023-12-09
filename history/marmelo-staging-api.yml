@@ -1,7 +1,7 @@
 url: $STAGING_API
-status: down
-code: 503
-responseTime: 548
-lastUpdated: 2023-12-09T19:15:43.088Z
+status: up
+code: 200
+responseTime: 569
+lastUpdated: 2023-12-09T19:23:36.871Z
 startTime: 2023-11-03T18:01:01.766Z
 generator: Upptime <https://github.com/upptime/upptime>
